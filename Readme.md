@@ -35,7 +35,7 @@ FROM `solar-router-483810-s0.homework_3.yellow_taxi_external`;
 SELECT COUNT(*) FROM `solar-router-483810-s0.homework_3.yellow_taxi_native`;
 ````
 
-#### question 2 - Write a query to count the distinct number of PULocationIDs for the entire dataset on both the tables. What is the estimated amount of data that will be read when this query is executed on the External Table and the Table?
+#### question 2 - Write a query to count the distinct number of PULocationIDs for the entire dataset on both the tables. What is the estimated amount of data that will be read when this query is executed on the External Table and the Materialized Table?
 ````
 SELECT DISTINCT PULocationID FROM `solar-router-483810-s0.homework_3.yellow_taxi_native`;
 ````
