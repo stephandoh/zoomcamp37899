@@ -4,6 +4,8 @@ In this project, I worked with NYC Yellow Taxi trip data (Jan–Jun 2024) to exp
 
 The focus wasn’t just on writing SQL; it was on understanding how BigQuery thinks: columnar storage, external vs native tables, partitioning, clustering, and metadata optimizations
 
+<img width="465" height="424" alt="image" src="https://github.com/user-attachments/assets/2ce5a532-05c9-469e-aa0b-65ef8b319cd0" />
+
 ## BigQuery Setup
 
 #### Create an external table using the Yellow Taxi Trip Records.
